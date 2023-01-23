@@ -12,6 +12,6 @@ Description:
 
 Language : Python
 
-You can see the script with .ipynb form in [here]().
+You can see the script with .ipynb form in [here](https://github.com/latifaesmananda/Medical-Cost-GA-ANN/blob/main/medical%20cost%20using%20ANN-GA.ipynb).
 
 **Hope this helps!👍**
